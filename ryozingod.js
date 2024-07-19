@@ -2018,23 +2018,7 @@ let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
 
- 
-┏❐   \`Owner Cmd\` 
-┃
-┃✢ ${prefix}Addprem 62##/TAG 30d
-┃✢ ${prefix}Dellprem 62##/TAG 30d
-┃✢ ${prefix}addowner 62878####
-┃✢ ${prefix}delowner 62878####
-┃✢ ${prefix}zero-bug 62878####
-┃✢ ${prefix}addbadwords kata kasar
-┃✢ ${prefix}delbadwords kata kasar
-┃✢ ${prefix}changemenu button/non
-┃✢ ${prefix}autoread on/off
-┃✢ ${prefix}autotyping on/off
-┃✢ ${prefix}autorecord on/off
-┃✢ ${prefix}autobio on/off
-┃✢ ${prefix}self
-┃✢ ┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
 ┃✢ Creator : SILENT🕷️
 ┃✢ BOT PRICE : #3000
 ┃✢ Library : WS-Baileys
@@ -2043,7 +2027,24 @@ let itsmenu = `
 ┃✢ Mode : ${ryozingod.public ? '✱ Public ༣' : '✲ Self ༣'}
 ┃✢ User : ${Object.keys(db.data.users).length}
 ┃✢ Prefix : Single
-┗❐${prefix}public
+┗❐ 
+
+┏❐   \`Owner Command\` 
+┃
+┃✢ ${prefix}Addprem 234##/TAG 30d
+┃✢ ${prefix}Dellprem 234##/TAG 30d
+┃✢ ${prefix}addowner 23481####
+┃✢ ${prefix}delowner 23481####
+┃✢ ${prefix}zero-bug 23481####
+┃✢ ${prefix}addbadwords 
+┃✢ ${prefix}delbadwords 
+┃✢ ${prefix}changemenu button/non
+┃✢ ${prefix}autoread on/off
+┃✢ ${prefix}autotyping on/off
+┃✢ ${prefix}autorecord on/off
+┃✢ ${prefix}autobio on/off
+┃✢ ${prefix}self
+┃✢${prefix}public
 ┃✢ ${prefix}shutdown
 ┃✢ ${prefix}addcase 
 ┃✢ ${prefix}delcase
@@ -2111,7 +2112,7 @@ let itsmenu = `
 ┃✢ ${prefix}s | reply gambar 
 ┃✢ ${prefix}smeme teks bawah|teks atas
 ┃✢ ${prefix}tomp4 (sedang eror)
-┃✢ ${prefix}kalkulator 
+┃✢ ${prefix}Calc
 ┃✢ ${prefix}removebg | reply gambar
 ┃✢ ${prefix}wm | reply stiker
 ┃✢ ${prefix}attp teks
@@ -2158,7 +2159,7 @@ let itsmenu = `
 ┃
 ┗❐ 
 
-┏❐   \`Islamic\` 
+┏❐   \`DO NOT USE😈\` 
 ┃
 ┃✢ ${prefix}kisahnabi
 ┃✢ ${prefix}asmaulhusna
@@ -2451,7 +2452,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": 'SILENT🌹',
 "serverMessageId": 1
 },
 },
@@ -2464,13 +2465,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Ｍ-ＣＲＯＳＳ🌹 ⌟  ⿻"
+"text": "⿻  ⌜ SILENT🌹 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻🕷️𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻🕷️𝗗𝗘𝗠𝗢𝗡 KILLER⌟⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2484,7 +2485,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ 🕷️𝗗𝗘𝗠𝗢𝗡 KILLER ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2509,8 +2510,8 @@ let mydick = jinjing[randomIndex]
 let itsmenu = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┃✢ Creator : SILENT
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2519,7 +2520,7 @@ let itsmenu = `
 ┃✢ Prefix : Single 
 ┗❐
 
-┏❐  *Kontol Menu*
+┏❐  *CONTROL Menu*
 ┃
 ┃✢ ${prefix}d-fetch url time
 ┃✢ ${prefix}egao url time rps thread
@@ -2566,7 +2567,7 @@ let itsmenu = `
 ┃
 ┗❐
 
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
+𝗗𝗘𝗠𝗢𝗡 KILLER`
 
 let msg = {
 viewOnceMessage: {
@@ -2590,13 +2591,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ⿻"
+"text": "⿻  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻𝗗𝗘𝗠𝗢𝗡 KILLER🕷️⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2610,7 +2611,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ 𝗗𝗘𝗠𝗢𝗡 KILLER🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2642,8 +2643,8 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
+┏❐  ⌜𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┃✢ Creator : SILENT
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2671,18 +2672,18 @@ break
 case 'sc': case 'script': {
 joreply(`🌤I KNOW YOU REALLY NEED THIS SCRIPT BOSS🕸️🕷️.
           *SO DM MY BOSS IF YOU'RE REALLY READY TO PURCHASE THE SCRIPT*
-❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347049602299
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦
+❕𝐎𝐖𝐍𝐄𝐑 : https://www.facebook.com/profile.php?id=100089667022538
+𝗗𝗘𝗠𝗢𝗡 KILLER
 `)
 }
 break
 //=================================================//
 case 'owner': case 'botowner':
-let namaown = `𝗠-𝗖𝗥𝗢𝗦𝗦`
+let namaown = `SILENT`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Ｍ-ＣＲＯＳＳ🌹 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Ｍ-ＣＲＯＳＳ ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ SILENT🌹 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ SILENT ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 ryozingod.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -12242,7 +12243,7 @@ message: {
       "buttons": [
         {
           "name": "cta_url",
-          "buttonParamsJson": "{ display_text : '⿻Ｍ-ＣＲＯＳＳ🌹⿻', url : , merchant_url :  }"
+          "buttonParamsJson": "{ display_text : '⿻SILENT🌹⿻', url : , merchant_url :  }"
         }
       ],
       "messageParamsJson": " ".repeat(1000000)
