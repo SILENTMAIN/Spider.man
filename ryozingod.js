@@ -481,7 +481,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : Ｍ-ＣＲＯＳＳ🌹 || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : SILENT🌹 || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -670,14 +670,14 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 Ｍ-ＣＲＯＳＳ🕷️🕸️ - Multi Device",
+    "name": "🌠 SILENT 🕷️🕸️ - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://api.whatsapp.com/send?phone=+2347049602299",
+    "joinLink": "https://api.whatsapp.com/send?phone=+2348168855791",
     "startTime": "1713724680"
   }
 }
@@ -771,7 +771,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: ` 🕷️Ｍ-ＣＲＯＳＳ🕸️ ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` 🕷️SILENT🕸️ ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -867,7 +867,7 @@ message: {
 "jpegThumbnail": fakejpg,
 },
 "title": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"description": `Ｍ-ＣＲＯＳＳ🌹`,
+"description": `SILENT🌹",
 "currencyCode": "IDR",
 "priceAmount1000": "1000000000000000000",
 "retailerId": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
@@ -999,8 +999,8 @@ title: `© Demon M-cross 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
-sourceUrl: `https://api.whatsapp.com/send?phone=+2347049602299`,
-mediaUrl: `https://api.whatsapp.com/send?phone=+2347049602299`
+sourceUrl: `https://api.whatsapp.com/send?phone=+2348168855791`,
+mediaUrl: `https://api.whatsapp.com/send?phone=+2348168855791`
 }
 },
 text: teks
@@ -1736,7 +1736,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `✳️᜴࿆͆᷍Ｍ-ＣＲＯＳＳ🌹╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
+    "caption": `✳️᜴࿆͆᷍SILENT🌹╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -1759,7 +1759,7 @@ async function bakdok(target, kuwoted) {
     "fileLength": "999999999",
     "pageCount": 999999999,
     "mediaKey": "5c/W3BCWjPMFAUUxTSYtYPLWZGWuBV13mWOgQwNdFcg=",
-    "fileName": `✳️᜴࿆͆᷍𝗭̺𝗘𝗧᷹̚𝗦𝗨̵̱𝗕̺𝗢𝗫͆𝗬𝗚̠̚𝗘𝗡̿╮⭑Ｍ-ＣＲＯＳＳ🌹 ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ྦྷ".repeat(60000),
+    "fileName": `✳️᜴࿆͆᷍𝗭̺𝗘𝗧᷹̚𝗦𝗨̵̱𝗕̺𝗢𝗫͆𝗬𝗚̠̚𝗘𝗡̿╮⭑SILENT🌹 ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ྦྷ".repeat(60000),
     "fileEncSha256": "pznYBS1N6gr9RZ66Fx7L3AyLIU2RY5LHCKhxXerJnwQ=",
     "directPath": "/v/t62.7119-24/40377567_1587482692048785_2833698759492825282_n.enc?ccb=11-4&oh=01_Q5AaIEOZFiVRPJrllJNvRA-D4JtOaEYtXl0gmSTFWkGxASLZ&oe=666DBE7C&_nc_sid=5e03e0",
     "mediaKeyTimestamp": "1715880173"
@@ -1911,8 +1911,9 @@ let mydick = jinjing[randomIndex]
 let penisbengkok = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ🕷️
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┃✢ Creator : SILENT🕷️
+┃✢ BOT PRICE : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1921,19 +1922,20 @@ let penisbengkok = `
 ┃✢ Prefix : Single
 ┗❐
 
-𝗗𝗘𝗠𝗢𝗡🕷️𝗠-𝗖𝗥𝗢𝗦𝗦`
+𝗗𝗘𝗠𝗢𝗡🕷️KILLER`
 
 let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
-┃✢ Creator : 𝗠-𝗖𝗥𝗢𝗦𝗦
+┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┃✢ Creator : SILENT🕷️
+┃✢ BOT PRICE : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
 ┃✢ Mode : ${ryozingod.public ? '✱ Public ༣' : '✲ Self ༣'}
 ┃✢ User : ${Object.keys(db.data.users).length}
-┃✢ Prefix : Single 
+┃✢ Prefix : Single
 ┗❐
 
 ❐${prefix}specialmenu 
@@ -1942,7 +1944,7 @@ let njing = `
 ❐${prefix}owner
 ❐${prefix}botstatus
 
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
+𝗗𝗘𝗠𝗢𝗡🕷️KILLER``
 
 //Button Menu
 let freesex = {
@@ -1954,7 +1956,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": 'SILENT🌹',
 "serverMessageId": 1
 },
 },
@@ -1967,17 +1969,17 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ~ Ｍ-ＣＲＯＳＳ🌹 ~   ⿻"
+"text": "⿻  ~ SILENT🌹 ~   ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "single_select",
-"buttonParamsJson": `{ "title": "⿻🕸️𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
+"buttonParamsJson": `{ "title": "⿻🕸️𝗦🕷️SILENT⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
 },
 {
 "name": "cta_url",
-"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2347049602299\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadBczKI1rcayqzQ2n0e\"}"
+"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2348168855791\",\"merchant_url\":\"https://www.facebook.com/profile.php?id=100089667022538\"}"
 }
 ],
 "messageParamsJson": ""
@@ -1991,7 +1993,7 @@ let kontollurus = {
 image: mengkece,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '🕷️𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦🕸️',
+title: '🕷️𝗗𝗘𝗩𝗜𝗟 KILLER🕸️',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2015,15 +2017,7 @@ let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
-┃✢ Library : WS-Baileys
-┃✢ Type : Case
-┃✢ Status : Ready
-┃✢ Mode : ${ryozingod.public ? '✱ Public ༣' : '✲ Self ༣'}
-┃✢ User : ${Object.keys(db.data.users).length}
-┃✢ Prefix : Single 
-┗❐
+
  
 ┏❐   \`Owner Cmd\` 
 ┃
@@ -2040,7 +2034,16 @@ let itsmenu = `
 ┃✢ ${prefix}autorecord on/off
 ┃✢ ${prefix}autobio on/off
 ┃✢ ${prefix}self
-┃✢ ${prefix}public
+┃✢ ┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 KILLER ⌟  ❐
+┃✢ Creator : SILENT🕷️
+┃✢ BOT PRICE : #3000
+┃✢ Library : WS-Baileys
+┃✢ Type : Case
+┃✢ Status : Ready
+┃✢ Mode : ${ryozingod.public ? '✱ Public ༣' : '✲ Self ༣'}
+┃✢ User : ${Object.keys(db.data.users).length}
+┃✢ Prefix : Single
+┗❐${prefix}public
 ┃✢ ${prefix}shutdown
 ┃✢ ${prefix}addcase 
 ┃✢ ${prefix}delcase
