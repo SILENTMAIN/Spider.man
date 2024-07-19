@@ -22,15 +22,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2347049602299']
-global.ownMain = '2347049602299'
-global.NamaOwner = 'Ｍ-ＣＲＯＳＳ' //gausah diganti 
+global.prefa = ['.']
+global.owner = ['2348168855791']
+global.ownMain = '2348168855791'
+global.NamaOwner = 'SILENT' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
-global.author = 'Ｍ-ＣＲＯＳＳ🌹' //ganti aj klo mau
-global.packname = 'Ｍ-ＣＲＯＳＳ' //ganti aj klo mau
+global.namabot = 'SILENT' //ganti aj klo mau
+global.author = 'SILENT🌹' //ganti aj klo mau
+global.packname = 'SILENT' //ganti aj klo mau
 global.yt = '' //gausah diganti
 
 //===========================//
@@ -146,13 +146,13 @@ else return emot[results[0][0]]
 global.mess = { // bagian ini gausah diganti 
 ingroup: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚘𝚗 𝚐𝚛𝚘𝚞𝚙𝚜💢',
 admin: `❗𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 😝`,
-owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`Ｍ-ＣＲＯＳＳ🌹\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
+owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`my master SILENT🌹\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
 premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🐦',
-seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
+seller: 'you are not the seller bro😂',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 Ｍ-ＣＲＯＳＳ🗿🚬',
-bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
+succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 DEMON KILLER🗿🚬',
+bugrespon: `✅TERMINATING VICTIM🕷️`
 }
 
 //===========================//
