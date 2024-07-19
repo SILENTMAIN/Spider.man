@@ -1,7 +1,7 @@
 <h1 align="center"> Created By SILENT WOLF </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/1ec8079ebbfc42d6b5294.jpg." width="360" height="360"/>
+<img src="https://telegra.ph/file/1ec8079ebbfc42d6b5294.jpg" width="360" height="360"/>
 </p>
 
 <p align="center">
