@@ -1,4 +1,4 @@
-<h1 align="center"> Created By King M-cross </h1>
+<h1 align="center"> Created By SILENT WOLF </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/7d316e1bd25e4b0def51c.jpg" width="360" height="360"/>
