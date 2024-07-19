@@ -79,21 +79,21 @@ const ryoroyko = ryoroykoConnect({
 })
 
     if (usePairingCode && !ryoroyko.authState.creds.registered) {
-    say(`Spider\nV4\n`, {
+    say(`ZxV\nV4\n`, {
         font: 'block',
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By SILENT🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2348168855791`, {
+say(`Create By Thezetetsuboxygen\nYOUTUBE : Thezetetsuboxygen\nTelegram : ygen_good\nInstagram : ryo.r0yko`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2348168855791\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
+    const phoneNumber = await question(`<!> MASUKAN NOMOR TELPON DENGAN BERAWALAN KODE NEGARA (JANGAN GUNAKAN 0)  ❌\n<✓> EXAMPLE : 62878890000\n <+> NOMOR LU : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
-   console.log(color(`[ # ] enter that code into WhatsApp Nigga: ${code}`, `${randomcolor}`));
+   console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
 }
 
     // Status 
@@ -235,14 +235,14 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By 𝗗𝗘𝗩𝗜𝗟 KILLER`, {
+    say(`Create By Thezetetsuboxygen\nYOUTUBE : Thezetetsuboxygen\nTelegram : ygen_good\nInstagram : ryo.r0yko`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2348168855791@s.whatsapp.net`, { text: `⚡𝐆𝐔𝚵𝐒𝐒 𝐖𝚮𝚯 𝐉𝐔𝐒𝚻 𝐖𝚯𝐊𝚵 𝚻𝚮𝚵 𝗗𝗘𝗩𝗜𝗟 KILLER 𝐔𝚸🕷️🕸️ `})
+ryoroyko.sendMessage(`2348168855791@s.whatsapp.net`, { text: `*[🕷️] •😈𝐃𝐄𝐌𝐎𝐍 KILLER😈 CONNECTED AND READY TO SERVE YOU🦠🕷️😈🕸️*`})
             }
 
         } catch (err) {
